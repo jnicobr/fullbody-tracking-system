@@ -6,3 +6,6 @@ Begins based on a RaspberryPi Zero 2w as main controller and server host of the 
 This allows me to measure a three-axis gyroscope for angular speed, triaxial accelerometer, three-axis magnetic field for absolute orientation and atmospheric pressure to enhance the measurement of vertical postion, integrated with the accelerometer.
 
 ![full-body-tracking-concept-v0 1 drawio](https://user-images.githubusercontent.com/83966237/216487549-cce4a2e6-42c8-4e70-aba3-2ac8301719e6.svg)
+
+## Reference
+![GY-87 interfacing](https://electropeak.com/learn/interfacing-gy-87-10dof-imu-mpu6050-hmc5883l-bmp085-module-with-arduino/) works as a base for an interface identification building the I2C interface table
